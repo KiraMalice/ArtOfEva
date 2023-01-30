@@ -1,0 +1,515 @@
+/*Body elements*/
+.IndexBody {
+  background-image: url(./new_images/ramiel-b_4x.webp);
+  background-size: 100%;
+}
+
+.AristotleBody {
+  background-image: url(./new_images/NERV-Hex.jpg);
+  background-size: 100%;
+}
+
+.AnnoBody {
+  background-image: url(./new_images/sync-rate.gif);
+  background-size: 100%;
+}
+
+.FontsBody {
+  background-image: url(./new_images/Nerve-Splash-Red.png);
+}
+
+.ScoreBody {
+  background-image: url(./new_images/sync-graph.gif);
+  background-size: 100%;
+}
+
+.ArtBody {
+  background-image: url(./new_images/The\ End\ of\ Eva\ modern.webp);
+  background-size: 100%;
+}
+
+/*Header elemnents*/
+.h1 {
+  background-image: url(./new_images/Eva-Runing-Elegant.jpg);
+  background-position: 0% 30%;
+  background-size: 100%;
+  object-position: center;
+  object-fit: cover;
+  height: 300px;
+  border: none;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  text-align: center;
+  font-family: Times;
+  font-size: 400%;
+  color: rgb(255, 172, 29);
+}
+
+.h1-aristotle {
+  background-image: url(./new_images/shinji-red-background.webp);
+  background-position: -38px 30%;
+  background-size: 1500px;
+  object-position: center;
+  object-fit: fill;
+  height: 300px;
+  border: none;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  text-align: center;
+  font-family: Times;
+  font-size: 400%;
+}
+
+.greyout {
+  color: rgb(225, 195, 195);
+}
+
+.h1-anno {
+  background-image: url(./new_images/anno-looking-into-character-splash.jpg);
+  background-position: -38px 30%;
+  background-size: 1505px;
+  object-position: center;
+  object-fit: fill;
+  height: 300px;
+  border: none;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  text-align: center;
+  color: aliceblue;
+  font-family: Times;
+  font-size: 400%;
+}
+
+.h1-typeface {
+  background-image: url(./new_images/worth.jpeg);
+  background-position: 0px -5%;
+  background-size: 100%;
+  object-position: center;
+  object-fit: fill;
+  height: 300px;
+  border: none;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  font-family: Times;
+  font-size: 400%;
+}
+
+.h1-score {
+  background-image: url(./new_images/mental-filter.gif);
+  background-position: 0px 30%;
+  background-size: 100%;
+  object-position: center;
+  object-fit: fill;
+  height: 300px;
+  border: none;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: Times;
+  font-size: 400%;
+}
+
+.h1-art {
+  background-image: url(./new_images/ManyReis.png);
+  background-position: 0px 30%;
+  background-size: 100%;
+  object-position: center;
+  object-fit: fill;
+  height: 300px;
+  border: none;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: Times;
+  font-size: 400%;
+}
+.lol {
+  font-size: 30%;
+}
+
+.EVANGELION {
+  font-family: serif;
+  font-size: 200%;
+  margin-top: 30px;
+}
+
+/*Link bar elements*/
+.LinkBar {
+  background-color: aliceblue;
+  height: 80px;
+}
+
+.spacer {
+  width: 160px;
+  background-color: aliceblue;
+  border: none;
+  cursor: pointer;
+}
+
+.NervLogo {
+  block-size: 50px;
+  position: absolute;
+  margin-left: -30px;
+  margin-top: -45px;
+  padding: 30px;
+  margin-left: -48px;
+}
+
+.button {
+  font-family: Helvetica;
+  background-color: aliceblue;
+  color: rgb(48, 37, 68);
+  font-weight: 750;
+  font-size: 150%;
+  border: none;
+  height: 80px;
+  width: 210px;
+  align-content: center;
+  margin-left: -1%;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.button:hover {
+  background-color: rgb(52, 53, 54);
+  color: aliceblue;
+  font-family: Helvetica;
+  font-weight: 750;
+  font-size: 150%;
+  height: 80px;
+  width: 210px;
+  cursor: pointer;
+}
+
+.SpacerBar {
+  background-color: aliceblue;
+  height: 40px;
+}
+
+.SpacerBarIndex {
+  background-color: aliceblue;
+  position: relative;
+  margin-top: -1%;
+  height: 30px;
+}
+
+/*Main page content elements*/
+
+/*H2 header settings*/
+.h2div {
+  align-content: center;
+  align-items: center;
+}
+
+.h2 {
+  color: aliceblue;
+  position: absolute;
+  text-align: center;
+  object-position: center;
+  font-size: 300%;
+  left: 13%;
+  margin-top: 27px;
+}
+
+.line1 {
+  margin-top: 110px;
+}
+
+/*Index page*/
+.IndexParagraph1 {
+  color: aliceblue;
+  text-align: center;
+  align-content: center;
+  font-size: 200%;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(167, 20, 89, 0.7) solid;
+}
+
+.IndexIMG1 {
+  block-size: 350px;
+  margin-left: 5%;
+  border: 200px transparent rgb(255, 255, 255);
+  border-color: rgb(255, 240, 240);
+}
+
+/*Philosphy bullcrap page*/
+.mindIMG1 {
+  text-align: center;
+  display: block;
+  block-size: 400px;
+  margin: 0 auto;
+  border: 30px rgba(137, 39, 39, 0.4) solid;
+}
+
+.MindParagraph1 {
+  margin-top: 20%;
+  color: aliceblue;
+  align-content: center;
+  font-size: 200%;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(38, 4, 20, 0.7) solid;
+  position: relative;
+  color: aliceblue;
+}
+
+.ColumnPositioning {
+  margin-bottom: 35%;
+  margin-top: 2%;
+}
+
+.column1 {
+  box-sizing: border-box;
+  float: left;
+  width: 50%;
+  height: 430px;
+  background: rgba(99, 26, 60, 0.79);
+  border: 25px rgba(38, 4, 20, 0.7) solid;
+  border-right: 0px;
+  color: aliceblue;
+  font-size: 175%;
+  text-align: right;
+  margin-right: 2;
+}
+
+.ColumnText1 {
+  margin-right: 15px;
+  margin-left: 25%;
+}
+
+.ColumnText2 {
+  margin-left: 15px;
+  margin-right: 25%;
+}
+
+.column2 {
+  box-sizing: border-box;
+  float: left;
+  width: 50%;
+  height: 430px;
+  background: rgba(99, 26, 60, 0.79);
+  border: 25px rgba(38, 4, 20, 0.7) solid;
+  border-left: 0px;
+  color: aliceblue;
+  font-size: 175%;
+}
+
+/*Anno Page*/
+.AnnoParagraph1 {
+  text-align: left;
+  margin-left: 37%;
+  margin-top: -37%;
+  margin-right: 30px;
+  margin-bottom: 60%;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(38, 4, 20, 0.7) solid;
+  position: relative;
+  color: aliceblue;
+  font-size: 175%;
+}
+
+.annoIMG1 {
+  block-size: 500px;
+  margin-left: 5%;
+  margin-top: 5%;
+  border: 30px rgba(137, 39, 39, 0.4) solid;
+}
+
+.AnnoParagraph2 {
+  text-align: right;
+  margin-left: 2%;
+  margin-top: -35%;
+  margin-right: 57%;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(38, 4, 20, 0.7) solid;
+  position: relative;
+  color: aliceblue;
+  font-size: 175%;
+  line-height: 145%;
+}
+
+.annoIMG2 {
+  display: block;
+  block-size: 400px;
+  float: right;
+  margin-right: 5%;
+  border: 30px rgba(137, 39, 39, 0.4) solid;
+  margin-top: -70%;
+}
+
+.annoIMG3 {
+  display: block;
+  block-size: 400px;
+  float: right;
+  margin-right: 5%;
+  border: 30px rgba(137, 39, 39, 0.4) solid;
+  margin-top: -35%;
+}
+
+.AnnoParagraph3 {
+  text-align: center;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(167, 20, 89, 0.7) solid;
+  position: relative;
+  color: aliceblue;
+  font-size: 175%;
+  line-height: 145%;
+}
+
+.AnnoEmbed1 {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(167, 20, 89, 0.7) solid;
+}
+
+.AnnoLink1 {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin: 2%;
+  background: rgba(236, 234, 235, 0.8);
+  border: 25px rgba(167, 20, 89, 0.7) solid;
+  position: relative;
+  color: aliceblue;
+  font-size: 175%;
+  line-height: 145%;
+}
+
+/*Typeface page*/
+.TypefaceParagraph1 {
+  color: aliceblue;
+  text-align: center;
+  align-content: center;
+  font-size: 200%;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(167, 20, 89, 0.7) solid;
+  border-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.TypefaceParagraph2 {
+  color: aliceblue;
+  text-align: center;
+  align-content: center;
+  font-size: 160%;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(167, 20, 89, 0.7) solid;
+  border-top: 0px;
+  margin-top: 0px;
+}
+
+.typefaceIMG1 {
+  display: block;
+  block-size: 800px;
+}
+
+.typefaceIMG2 {
+  display: block;
+  float: left;
+  block-size: 490px;
+  margin-left: -150px;
+}
+
+.ul {
+  list-style-type: none;
+}
+
+ul ul {
+  margin-left: 20px;
+}
+
+/*Score Page*/
+
+.ScoreEmbed1 {
+  width: 55%;
+  height: 55%;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(167, 20, 89, 0.7) solid;
+}
+
+.ScoreParagraph1 {
+  color: aliceblue;
+  text-align: center;
+  align-content: center;
+  font-size: 200%;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(167, 20, 89, 0.7) solid;
+  border-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.ScoreParagraph2 {
+  color: aliceblue;
+  text-align: center;
+  align-content: center;
+  font-size: 200%;
+  background: rgba(59, 3, 29, 0.6);
+  border: 25px rgba(167, 20, 89, 0.7) solid;
+  border-top: 0px;
+  margin-top: 0px;
+}
+
+.ScoreParagraph3 {
+  text-align: center;
+  color: aliceblue;
+  display: block;
+  text-align: center;
+  align-content: center;
+  font-size: 200%;
+  background: rgba(197, 10, 97, 0.6);
+  border: 25px rgba(43, 10, 25, 0.7) solid;
+}
+
+.ScoreList1 {
+  list-style-type: display block;
+}
+
+ul ul {
+  margin-left: 20px;
+}
+
+table,
+tr,
+td {
+  border: 5px solid rgb(255, 255, 255);
+  width: 1300px;
+}
+
+.ScoreImages {
+  width: 200px;
+  height: 200px;
+}
+
+/*Crafts Page*/
+.CraftImages {
+  block-size: 400px;
+}
+
+.CraftsTable {
+  color: aliceblue;
+  font-size: larger;
+  display: table;
+
+  width: 100%;
+  border: 10px solid;
+  box-sizing: border-box;
+
+  background-color: rgba(255, 101, 170, 0.852);
+}
+
+/*Shinji Posting page*/
+.EyesPoppingOut {
+  position: absolute;
+  block-size: 50%;
+  top: 60%;
+  left: 70%;
+  background-repeat: repeat-y;
+}
